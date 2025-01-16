@@ -26,7 +26,7 @@ User roles: Differentiated access for students and administrators.
 Installation:
 
 Clone the repository:
-Bash git clone https://your-repository-url.git
+Bash git clone https://github.com/DanFrunza/-Student-Appointments-at-the-Registrar-s-Office-/tree/master
 
 Set up database:
 Create a database with the specified name and schema.
@@ -37,3 +37,13 @@ Use your preferred build tool (Maven, Gradle) to compile and package the applica
 
 Deploy the application:
 Deploy the WAR file to your application server (e.g., Payara, Glassfish).
+
+
+Usage:
+Access the application: Open a web browser and navigate to the deployed application URL.
+Login: Use the provided credentials to log in as a student or administrator.
+Schedule an appointment: Students can select a date and time and submit a scheduling request.
+Manage appointments: Administrators can view all appointments, filter by date, and perform actions like canceling or changing the status.
+
+
+
