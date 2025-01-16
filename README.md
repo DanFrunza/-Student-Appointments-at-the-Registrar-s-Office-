@@ -48,7 +48,7 @@ Installation:
 
 Clone the repository:
 
-Bash git clone https://github.com/DanFrunza/-Student-Appointments-at-the-Registrar-s-Office-/tree/master
+Bash: git clone https://github.com/DanFrunza/-Student-Appointments-at-the-Registrar-s-Office-/tree/master
 
 
 Set up database:
